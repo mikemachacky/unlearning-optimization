@@ -27,6 +27,14 @@ This repository contains the official implementation and experimental setup for 
 ```
 
 ---
+### 📥 Model Checkpoints
+
+Due to size constraints, pre-trained model weights are hosted externally:
+- `poisoned_model.pth` (~139 MB): [Download from Zenodo](https://zenodo.org/record/TODO)
+
+Place the downloaded file into the `resources/poisoned_model/` directory before running evaluations.
+
+---
 
 # 🛠️ Environment Setup & Installation
 
