@@ -38,6 +38,10 @@ Place the downloaded file into the `resources/poisoned_model/` directory before 
 
 # 🛠️ Environment Setup & Installation
 
+Download following files and place them in the `resources/` directory:
+resources/test_set/
+resources/unlearn_set/
+Source: ![kaggle](https://www.kaggle.com/competitions/neural-debris-removal-in-streak-detection-models/data)
 ---
 
 ## 📊 Dataset

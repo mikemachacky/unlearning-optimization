@@ -1,2 +1,6 @@
 .idea
 *.pth
+checkpoints/
+resources/test_set/
+resources/unlearn_set/
+resources/trigger_bank/
