@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: dataset_generator
+Version: 0.1.0
+Summary: Synthetic dataset generator for the Space Debris challenge
+Author: Magdalena Machacka
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
